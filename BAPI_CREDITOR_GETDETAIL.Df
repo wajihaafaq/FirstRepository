@@ -59,7 +59,7 @@
               <Name>CREDITOR_GENERAL_DETAIL</Name>
               <InputParamRole>Standard</InputParamRole>
               <OutputParamRole>Standard</OutputParamRole>
-              <Direction>Output</Direction>
+              <Direction>Input</Direction>
               <Cardinality>OneToOne</Cardinality>
               <DataFormat>Structure</DataFormat>
             </SapFuncParamProperties>
