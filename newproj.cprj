@@ -22,6 +22,11 @@
             <ProjectType>Integration</ProjectType>
             <VcAction>None</VcAction>
           </ProjectItem>
+          <ProjectItem xsi:type="ProjectItemFile">
+            <Name>Workflow5.Wfs</Name>
+            <ProjectType>Integration</ProjectType>
+            <VcAction>None</VcAction>
+          </ProjectItem>
         </Members>
         <IsExpanded>false</IsExpanded>
       </ProjectItem>
@@ -40,6 +45,11 @@
         <Members>
           <ProjectItem xsi:type="ProjectItemFile">
             <Name>ReportModel1.Rmd</Name>
+            <ProjectType>Integration</ProjectType>
+            <VcAction>None</VcAction>
+          </ProjectItem>
+          <ProjectItem xsi:type="ProjectItemFile">
+            <Name>Workflow5.Wfs</Name>
             <ProjectType>Integration</ProjectType>
             <VcAction>None</VcAction>
           </ProjectItem>
