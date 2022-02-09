@@ -23,7 +23,7 @@
             <VcAction>None</VcAction>
           </ProjectItem>
           <ProjectItem xsi:type="ProjectItemFile">
-            <Name>Workflow5.Wfs</Name>
+            <Name>Workflow8.Wfs</Name>
             <ProjectType>Integration</ProjectType>
             <VcAction>None</VcAction>
           </ProjectItem>
@@ -49,7 +49,7 @@
             <VcAction>None</VcAction>
           </ProjectItem>
           <ProjectItem xsi:type="ProjectItemFile">
-            <Name>Workflow5.Wfs</Name>
+            <Name>Workflow8.Wfs</Name>
             <ProjectType>Integration</ProjectType>
             <VcAction>None</VcAction>
           </ProjectItem>
