@@ -3,14 +3,45 @@
   <IsFolder>false</IsFolder>
   <Id>0</Id>
   <IsNewRecord>false</IsNewRecord>
-  <Name />
+  <Name>C:\Users\wajiha.afaq\Documents\GitProjects\3\fff\ReportModel.Rmd</Name>
   <Description />
   <CreateDtTm>0001-01-01T00:00:00</CreateDtTm>
   <UpdateDtTm>0001-01-01T00:00:00</UpdateDtTm>
+  <_CurrentField MaxFieldLengthInLayoutBuilding="9" MaxNumericValueInLayoutBuilding="0" MaxDecimalPlacesInLayoutBuilding="0" Length="10" DataType="String" IsPrimaryKey="false" Header="Field_1" Index="1" AllowsNull="true" IsDependent="false" IsCategorical="false" IsTimeVariable="false" IsResponseVariable="false" TimeSeriesXReg="false" IsOrdinal="false" TimeSeriesNullTreatment="None" Name="Category">
+    <FieldRoles>Input Output</FieldRoles>
+    <UniqueId>688f1ca1-c98c-4b8b-b01c-03e7de3d8c37</UniqueId>
+    <IsAllowedInOutput>true</IsAllowedInOutput>
+    <RegressionType>None</RegressionType>
+    <IsInput>true</IsInput>
+    <IsOutput>true</IsOutput>
+    <IsVariable>false</IsVariable>
+    <HasCollections>false</HasCollections>
+    <CompositeType>None</CompositeType>
+    <CompositeComponentType>None</CompositeComponentType>
+    <LineCount>1</LineCount>
+    <PositionType>Specified</PositionType>
+    <CaseSensitiveMatch>false</CaseSensitiveMatch>
+    <RegularExpressionMatch>false</RegularExpressionMatch>
+    <FieldLabelPosition>None</FieldLabelPosition>
+    <StartLine>0</StartLine>
+    <StartColumn>34</StartColumn>
+    <VerticalSizeType>SpecifiedRows</VerticalSizeType>
+    <LengthType>Specified</LengthType>
+    <ValueIfNull>None</ValueIfNull>
+    <RemoveTextQualifier>false</RemoveTextQualifier>
+    <RemoveExtraSpacesInsideText>false</RemoveExtraSpacesInsideText>
+    <RemoveLeadingSpaces>true</RemoveLeadingSpaces>
+    <SpecificCharactersToBeRemoved />
+    <RemoveSpecificCharacters>false</RemoveSpecificCharacters>
+    <RemoveTrailingSpaces>true</RemoveTrailingSpaces>
+    <RemoveAllwhiteSpaces>false</RemoveAllwhiteSpaces>
+    <RemovePunctuations>false</RemovePunctuations>
+    <IsCalculated>false</IsCalculated>
+  </_CurrentField>
   <ExportTables />
   <OlapReports />
   <Options>
-    <ContentType>Report</ContentType>
+    <ContentType>Excel</ContentType>
     <FontSize>0</FontSize>
     <_RecordDelimiter>&#xD;
 </_RecordDelimiter>
@@ -25,8 +56,8 @@
       <UncPath />
     </SourceDirectoryForLooping>
     <SampleFilePath>
-      <Path />
-      <UncPath />
+      <Path>C:\Users\wajiha.afaq\Documents\Form IT-3.xlsx</Path>
+      <UncPath>C:\Users\wajiha.afaq\Documents\Form IT-3.xlsx</UncPath>
     </SampleFilePath>
     <SampleLineCount>5000</SampleLineCount>
     <OutliningType>ExpandAll</OutliningType>
@@ -34,6 +65,7 @@
     <RecordDelimiter>&#xD;
 </RecordDelimiter>
     <RemoveBlankLines>false</RemoveBlankLines>
+    <ExcelWorksheet />
     <BlankLinesForEof>5</BlankLinesForEof>
     <TabSize>8</TabSize>
     <PdfOptions>
@@ -67,13 +99,140 @@
     </LayoutBuildingOptions>
     <SuppressLayoutBuilding>false</SuppressLayoutBuilding>
     <Fields />
+    <DisabledFields />
     <Children />
-    <Referenced />
+    <Referenced>
+      <BaseLayout xsi:type="ReportLayout" IsHierarchicalFile="false">
+        <IsFolder>false</IsFolder>
+        <Id>0</Id>
+        <IsNewRecord>false</IsNewRecord>
+        <Name>Data</Name>
+        <Description />
+        <CreateDtTm>0001-01-01T00:00:00</CreateDtTm>
+        <UpdateDtTm>0001-01-01T00:00:00</UpdateDtTm>
+        <IsSharedLayout>false</IsSharedLayout>
+        <LayoutBuildingOptions>
+          <RecordType>ReportMiningDefinition</RecordType>
+          <LayoutBuildingDefaultMode>SourceDefault</LayoutBuildingDefaultMode>
+          <LayoutBuildingProcess>Default</LayoutBuildingProcess>
+        </LayoutBuildingOptions>
+        <SuppressLayoutBuilding>false</SuppressLayoutBuilding>
+        <Fields>
+          <ReportLayoutField MaxFieldLengthInLayoutBuilding="1" MaxNumericValueInLayoutBuilding="4" MaxDecimalPlacesInLayoutBuilding="0" Length="2" DataType="Integer" IsPrimaryKey="false" Header="Field_0" Index="0" AllowsNull="true" IsDependent="false" IsCategorical="false" IsTimeVariable="false" IsResponseVariable="false" TimeSeriesXReg="false" IsOrdinal="false" TimeSeriesNullTreatment="None" Name="Mobiles">
+            <FieldRoles>Input Output</FieldRoles>
+            <UniqueId>96c8eacb-363d-425e-9371-b3b7ac5648bc</UniqueId>
+            <IsAllowedInOutput>true</IsAllowedInOutput>
+            <RegressionType>None</RegressionType>
+            <IsInput>true</IsInput>
+            <IsOutput>true</IsOutput>
+            <IsVariable>false</IsVariable>
+            <HasCollections>false</HasCollections>
+            <CompositeType>None</CompositeType>
+            <CompositeComponentType>None</CompositeComponentType>
+            <LineCount>1</LineCount>
+            <PositionType>Specified</PositionType>
+            <CaseSensitiveMatch>false</CaseSensitiveMatch>
+            <RegularExpressionMatch>false</RegularExpressionMatch>
+            <FieldLabelPosition>None</FieldLabelPosition>
+            <StartLine>0</StartLine>
+            <StartColumn>31</StartColumn>
+            <VerticalSizeType>SpecifiedRows</VerticalSizeType>
+            <LengthType>Specified</LengthType>
+            <ValueIfNull>None</ValueIfNull>
+            <RemoveTextQualifier>false</RemoveTextQualifier>
+            <RemoveExtraSpacesInsideText>false</RemoveExtraSpacesInsideText>
+            <RemoveLeadingSpaces>true</RemoveLeadingSpaces>
+            <SpecificCharactersToBeRemoved />
+            <RemoveSpecificCharacters>false</RemoveSpecificCharacters>
+            <RemoveTrailingSpaces>true</RemoveTrailingSpaces>
+            <RemoveAllwhiteSpaces>false</RemoveAllwhiteSpaces>
+            <RemovePunctuations>false</RemovePunctuations>
+            <IsCalculated>false</IsCalculated>
+          </ReportLayoutField>
+          <ReportLayoutField MaxFieldLengthInLayoutBuilding="9" MaxNumericValueInLayoutBuilding="0" MaxDecimalPlacesInLayoutBuilding="0" Length="10" DataType="String" IsPrimaryKey="false" Header="Field_1" Index="1" AllowsNull="true" IsDependent="false" IsCategorical="false" IsTimeVariable="false" IsResponseVariable="false" TimeSeriesXReg="false" IsOrdinal="false" TimeSeriesNullTreatment="None" Name="Category">
+            <FieldRoles>Input Output</FieldRoles>
+            <UniqueId>688f1ca1-c98c-4b8b-b01c-03e7de3d8c37</UniqueId>
+            <IsAllowedInOutput>true</IsAllowedInOutput>
+            <RegressionType>None</RegressionType>
+            <IsInput>true</IsInput>
+            <IsOutput>true</IsOutput>
+            <IsVariable>false</IsVariable>
+            <HasCollections>false</HasCollections>
+            <CompositeType>None</CompositeType>
+            <CompositeComponentType>None</CompositeComponentType>
+            <LineCount>1</LineCount>
+            <PositionType>Specified</PositionType>
+            <CaseSensitiveMatch>false</CaseSensitiveMatch>
+            <RegularExpressionMatch>false</RegularExpressionMatch>
+            <FieldLabelPosition>None</FieldLabelPosition>
+            <StartLine>0</StartLine>
+            <StartColumn>34</StartColumn>
+            <VerticalSizeType>SpecifiedRows</VerticalSizeType>
+            <LengthType>Specified</LengthType>
+            <ValueIfNull>None</ValueIfNull>
+            <RemoveTextQualifier>false</RemoveTextQualifier>
+            <RemoveExtraSpacesInsideText>false</RemoveExtraSpacesInsideText>
+            <RemoveLeadingSpaces>true</RemoveLeadingSpaces>
+            <SpecificCharactersToBeRemoved />
+            <RemoveSpecificCharacters>false</RemoveSpecificCharacters>
+            <RemoveTrailingSpaces>true</RemoveTrailingSpaces>
+            <RemoveAllwhiteSpaces>false</RemoveAllwhiteSpaces>
+            <RemovePunctuations>false</RemovePunctuations>
+            <IsCalculated>false</IsCalculated>
+          </ReportLayoutField>
+        </Fields>
+        <Children />
+        <Referenced />
+        <ValidationRules />
+        <EndType>LineCount</EndType>
+        <RegionFormat>Unknown</RegionFormat>
+        <HasFieldsWithNoValues>false</HasFieldsWithNoValues>
+        <Patterns>
+          <LinePatternBase xsi:type="LinePattern">
+            <IsCaseSensitiveMatch>false</IsCaseSensitiveMatch>
+            <ApplyToLine>0</ApplyToLine>
+            <IsRegEx>false</IsRegEx>
+            <FloatFields>true</FloatFields>
+            <IsFloatingPattern>false</IsFloatingPattern>
+            <LineLength>0</LineLength>
+            <PatternText>                               Ñ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </PatternText>
+          </LinePatternBase>
+        </Patterns>
+        <Pattern xsi:type="LinePattern">
+          <IsCaseSensitiveMatch>false</IsCaseSensitiveMatch>
+          <ApplyToLine>0</ApplyToLine>
+          <IsRegEx>false</IsRegEx>
+          <FloatFields>true</FloatFields>
+          <IsFloatingPattern>false</IsFloatingPattern>
+          <LineLength>0</LineLength>
+          <PatternText>                               Ñ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </PatternText>
+        </Pattern>
+        <ContentType>Excel</ContentType>
+        <LineCount>1</LineCount>
+        <RegionType>Data</RegionType>
+        <IsContainer>false</IsContainer>
+        <IsOverlappedContainer>false</IsOverlappedContainer>
+        <FieldPositionsMayBeOff>false</FieldPositionsMayBeOff>
+        <MaxFieldStartAdjustment>0</MaxFieldStartAdjustment>
+        <IsMultiColumnRegion>false</IsMultiColumnRegion>
+        <RegionColumnStarts />
+      </BaseLayout>
+    </Referenced>
     <ValidationRules />
     <EndType>LineCount</EndType>
     <RegionFormat>Unknown</RegionFormat>
     <HasFieldsWithNoValues>false</HasFieldsWithNoValues>
-    <Patterns />
+    <Patterns>
+      <LinePatternBase xsi:type="LinePattern">
+        <IsCaseSensitiveMatch>false</IsCaseSensitiveMatch>
+        <ApplyToLine>0</ApplyToLine>
+        <IsRegEx>false</IsRegEx>
+        <FloatFields>true</FloatFields>
+        <IsFloatingPattern>false</IsFloatingPattern>
+        <LineLength>0</LineLength>
+        <PatternText />
+      </LinePatternBase>
+    </Patterns>
     <Pattern xsi:type="LinePattern">
       <IsCaseSensitiveMatch>false</IsCaseSensitiveMatch>
       <ApplyToLine>0</ApplyToLine>
@@ -83,7 +242,7 @@
       <LineLength>0</LineLength>
       <PatternText />
     </Pattern>
-    <ContentType>Report</ContentType>
+    <ContentType>Excel</ContentType>
     <LineCount>1</LineCount>
     <RegionType>Top</RegionType>
     <IsContainer>false</IsContainer>
@@ -93,9 +252,9 @@
     <IsMultiColumnRegion>false</IsMultiColumnRegion>
     <RegionColumnStarts />
   </ReportLayout>
-  <MaxLineLength>0</MaxLineLength>
+  <MaxLineLength>502</MaxLineLength>
   <SampleFilePath>
-    <Path />
-    <UncPath />
+    <Path>C:\Users\wajiha.afaq\Documents\Form IT-3.xlsx</Path>
+    <UncPath>C:\Users\wajiha.afaq\Documents\Form IT-3.xlsx</UncPath>
   </SampleFilePath>
 </UdDocument>
